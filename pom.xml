@@ -99,7 +99,7 @@
 
     <profiles>
         <profile>
-            <id>RegressionRunner</id>
+            <id>regression</id>
             <build>
                 <plugins>
                     <plugin>
@@ -121,7 +121,7 @@
         </profile>
 
         <profile>
-            <id>SmokeRunner</id>
+            <id>smoke</id>
             <build>
                 <plugins>
                     <plugin>
